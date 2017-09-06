@@ -1,6 +1,6 @@
-# 爬虫初尝试v1.0.0
+# 爬虫v1.0.1
 # 爬取“笔趣阁5200”首页所拥有的小说的最新一章节
-# 手动修改book_name(必须是首页上出现的书)
+# 在v1.0.0的基础上，整理相关模块，修改html文本解码部分
 import urllib.request
 import re
 import chardet
